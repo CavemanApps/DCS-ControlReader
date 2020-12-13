@@ -1,2 +1,20 @@
-# DCS-ControlReader
- This is going to be an alpp that will take in the html created by tDCS World Control Export as HTML. This will make it easy to uniify a control schemee and profiles for each aircraft/
+
+- `git init`
+- `yarn init --yes`
+- `yarn add typescript -D`
+- `yarn add react react-dom`
+- `yarn add @types/react @types/react-dom -D`
+- `yarn add webpack webpack-cli webpack-dev-server ts-node @types/node @types/webpack @types/webpack-dev-server tsconfig-paths-webpack-plugin -D`
+- `yarn add ts-loader fork-ts-checker-webpack-plugin html-webpack-plugin -D`
+- `yarn add prettier -D`
+- `yarn add eslint eslint-plugin-react eslint-plugin-react-hooks @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-prettier eslint-config-prettier eslint-plugin-import -D`
+- `yarn add -D @webpack-cli/serve`
+- `yarn add -D @babel/core @babel/plugin-proposal-class-properties @babel/plugin-proposal-object-rest-spread @babel/preset-env @babel/preset-react @babel/preset-typescript babel-loader  @babel/plugin-syntax-dynamic-import` 
+- `yarn add -D react-hot-loader` 
+- `yarn add -D @types/react-hot-loader`
+- `yarn add -D jest`
+- `yarn add -D @types/jest`
+- `yarn add -D enzyme enzyme-to-json `
+- `yarn add -D @types/enzyme`
+- `yarn add -D @types/enzyme-to-json`
+- `yarn add -D @wojtekmaj/enzyme-adapter-react-17`
