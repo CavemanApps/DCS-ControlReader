@@ -1,0 +1,5164 @@
+{
+    "mouse": [
+        {
+            "Input": "",
+            "Command Name": "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AAU-52 Altimeter Pressure Setting Knob - CW/Increase",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Active Pause",
+            "Location": "Assist"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Bank Left",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Bank Right",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Labels",
+            "Location": "Labels"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Pitch Down",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Pitch Up",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Rudder Left",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Aircraft Rudder Right",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 BIT Pushbutton",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - A",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - CCW",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - CW",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - F",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - I",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - N",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DIS TYPE Switch - U",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DISPLAY Pushbutton",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DMR Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DMR Control Knob - CW/Increase",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 OFFSET Pushbutton",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 POWER Pushbutton (special) - ON/OFF",
+            "Location": "Special For Joystick; Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 POWER Pushbutton - OFF",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 POWER Pushbutton - ON",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 POWER Pushbutton - ON/OFF",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 SPECIAL Pushbutton",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "All Labels",
+            "Location": "Labels"
+        },
+        {
+            "Input": "",
+            "Command Name": "All missiles padlock",
+            "Location": "View Padlock"
+        },
+        {
+            "Input": "",
+            "Command Name": "Altitude Switch (special) - BARO/RDR",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Altitude Switch - BARO",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Altitude Switch - BARO/RDR",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Altitude Switch - RDR",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Contrast Control Switch - DOWN",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Contrast Control Switch - UP",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Gain Control Switch - DOWN",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Gain Control Switch - UP",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Night/Day Brightness Selector - DAY",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Night/Day Brightness Selector - NGT",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Off/Brightness Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Off/Brightness Control Knob - CW/Increase",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 1",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 10",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 11",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 12",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 13",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 14",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 15",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 16",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 17",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 18",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 19",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 2",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 20",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 3",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 4",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 5",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 6",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 7",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 8",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD PB 9",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Symbology Control Switch - DOWN",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Symbology Control Switch - UP",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "Anti Skid Switch (special) - ON/OFF",
+            "Location": "Special For Joystick; Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Anti Skid Switch - OFF",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Anti Skid Switch - ON",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Anti Skid Switch - ON/OFF",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AOA Indexer Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AOA Indexer Control Knob - CW/Increase",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "APU Control Sw (special) - ON/OFF",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "APU Control Switch - ON/OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "APU Fire Warning/Extinguisher Light Switch - PRESS",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "APU Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "APU Fire Warning/Extinguisher Light Switch - RELEASE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Arresting Hook Handle (special) - Up/Down",
+            "Location": "Special For Joystick; Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Arresting Hook Handle - Cycle",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Arresting Hook Handle - Down",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Arresting Hook Handle - Up",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ATC Engage/Disengage Switch",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attack My Target",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - AUTO",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - Down",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - INS",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - INS/AUTO",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - STBY",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - STBY/AUTO",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Attitude Selector Switch - Up",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AUX Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AUX Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Auto Start",
+            "Location": "Assist"
+        },
+        {
+            "Input": "",
+            "Command Name": "Auto Stop",
+            "Location": "Assist"
+        },
+        {
+            "Input": "",
+            "Command Name": "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Auxiliary Release Switch (special) - ENABLE/NORM",
+            "Location": "Special For Joystick; Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Auxiliary Release Switch - ENABLE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Auxiliary Release Switch - ENABLE/NORM",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Auxiliary Release Switch - NORM",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AV COOL Switch - EMERG/NORM",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Balance Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Balance Control Knob - CW/Increase",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - Down",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - OFF",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - ON",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - ON/OFF",
+            "Location": "Special For Joystick; Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - ORIDE",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - ORIDE/OFF",
+            "Location": "Special For Joystick; Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Battery Switch - Up",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Black Level Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Black Level Control Knob - CW/Increase",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - AUG PULL",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - CCW",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - CW",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - L OFF",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - NORM",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - OFF",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Bleed Air Knob - R OFF",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - Down",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - DUMP",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - NORM",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - NORM/DUMP",
+            "Location": "Special For Joystick; Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - RAM/DUMP",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - RAM/DUMP /DUMP",
+            "Location": "Special For Joystick; Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Pressure Switch - Up",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Temperature Knob - CCW/Decrease/COLD",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Temperature Knob - CW/Increase/HOT",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cage/Uncage Button",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera jiggle toggle",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera pan mode toggle",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view down",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view down-left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view down-right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view up",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view up-left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera snap view up-right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "\"MOUSE_BTN3\"",
+            "Command Name": "Camera transpose mode (press and hold)",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy - OPEN/CLOSE",
+            "Location": "Right Wall; Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Control Switch - CLOSE",
+            "Location": "Right Wall; Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Control Switch - HOLD",
+            "Location": "Right Wall; Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Control Switch - OPEN",
+            "Location": "Right Wall; Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Jettison Handle (special) - PULL/PUSH",
+            "Location": "Special For Joystick; Left Wall"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Jettison Handle - PULL",
+            "Location": "Left Wall"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Jettison Handle - PULL/PUSH",
+            "Location": "Left Wall"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Jettison Handle - PUSH",
+            "Location": "Left Wall"
+        },
+        {
+            "Input": "",
+            "Command Name": "Canopy Jettison Handle Unlock Button",
+            "Location": "Left Wall"
+        },
+        {
+            "Input": "",
+            "Command Name": "Catapult Hook-Up",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 1 - OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 1 - ON",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 1 - ON/OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 2 - OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 2 - ON",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 2 - ON/OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 3 - OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 3 - ON",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 3 - ON/OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 4 - OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 4 - ON",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB FCS CHAN 4 - ON/OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB HOOK - OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB HOOK - ON",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB HOOK - ON/OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB LAUNCH BAR - OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB LAUNCH BAR - ON",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB LAUNCH BAR - ON/OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB LG - OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB LG - ON",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB LG - ON/OFF",
+            "Location": "Right Wall; Right Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB SPD BRK - OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB SPD BRK - ON",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CB SPD BRK - ON/OFF",
+            "Location": "Left Wall; Left Circuit Breaker Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Center Camera View",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "CHART Light Dimmer Control - CCW/Decrease",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CHART Light Dimmer Control - CW/Increase",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Clickable mouse cockpit mode On/Off",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - AUTO",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - Down",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - LOWER",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - LOWER/AUTO",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - UPPER",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - UPPER/AUTO",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM 1 Antenna Selector Switch - Up",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - COMM 1",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - COMM 1/OFF",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - COMM 2",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - COMM 2/OFF",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - Down",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - OFF",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM G XMT Switch - Up",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM Switch - COMM 1",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM Switch - COMM 2",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM Switch - MIDS A",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "COMM Switch - MIDS B",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "CONSOLES Lights Dimmer Control - CCW/Decrease",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CONSOLES Lights Dimmer Control - CW/Increase",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Back",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Center",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Down",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Forward",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit Camera Move Up",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit panel view in",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cockpit panel view toggle",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - CIPHER",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - CIPHER/OFF",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - Down",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - OFF",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - PLAIN",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - PLAIN/OFF",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Comm Relay Switch - Up",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Communication menu",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Control Stick - HIDE (assist)",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Control Stick - HIDE/SHOW (assist)",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Control Stick - SHOW (assist)",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Course Set Switch - Left",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Course Set Switch - Right",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cover Me",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "CRYPTO Switch - HOLD/NORM",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CRYPTO Switch - ZERO/NORM",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 0",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 1",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 2",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 3",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 4",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 5",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 6",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 7",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 8",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Custom Snap View 9",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cycle Afterburner Detent - ON/OFF",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Defog Handle - Backward/LOW",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Defog Handle - Forward/HIGH",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - BYPASS",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - BYPASS/ON",
+            "Location": "Special For Joystick; Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - Down",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - OFF",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - OFF/ON",
+            "Location": "Special For Joystick; Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - ON",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "DISPENSER Switch - Up",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "Dispense Button",
+            "Location": "Left Wall; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "Dispense Switch - Aft(FLARE)/Center(OFF)",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Dispense Switch - Forward(CHAFF)/Center(OFF)",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Down Lock Override Button",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECM JETT JETT SEL Pushbutton Switch - OFF",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECM JETT JETT SEL Pushbutton Switch - ON",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECM JETT JETT SEL Pushbutton Switch - ON/OFF",
+            "Location": "Instrument Panel; Dispenser"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - AUTO",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - AUTO/MAN",
+            "Location": "Special For Joystick; Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - Down",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - MAN",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - OFF/RAM",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - OFF/RAM /MAN",
+            "Location": "Special For Joystick; Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ECS Mode Switch - Up",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Eject (3 times)",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Control Handle (3 times)",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat Manual Override Handle (special) - PULL/PUSH",
+            "Location": "Special For Joystick; Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat Manual Override Handle - PULL",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat Manual Override Handle - PULL/PUSH",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat Manual Override Handle - PUSH",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat SAFE/ARMED Handle (special) - SAFE/ARMED",
+            "Location": "Special For Joystick; Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat SAFE/ARMED Handle - ARMED",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat SAFE/ARMED Handle - SAFE",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ejection Seat SAFE/ARMED Handle - SAFE/ARMED",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Emergency Jettison Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Emergency/Parking Brake Handle - CCW",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Emergency/Parking Brake Handle - CW",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Emergency/Parking Brake Handle - PULL",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Emergency/Parking Brake Handle - STOW",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "\"MOUSE_BTN2\"",
+            "Command Name": "Enable visual recon mode",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "End mission",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - Down",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - OFF",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - ON",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - ON/OFF",
+            "Location": "Special For Joystick; Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - TEST",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - TEST/OFF",
+            "Location": "Special For Joystick; Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Anti-Ice Switch - Up",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Crank Switch - Cycle Left",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Crank Switch - Cycle Right",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Crank Switch - LEFT",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Crank Switch - OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Engine Crank Switch - RIGHT",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Exterior Lights Switch (special) - ON/OFF",
+            "Location": "Special For Joystick; Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Exterior Lights Switch - OFF",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Exterior Lights Switch - ON",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Exterior Lights Switch - ON/OFF",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - Down",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - NORM",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - ORIDE",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - ORIDE/NORM",
+            "Location": "Special For Joystick; Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - STOP",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - STOP/NORM",
+            "Location": "Special For Joystick; Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Centerline Tank Fuel Control Switch - Up",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Power Switch - Down",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Power Switch - NORM",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Power Switch - OFF",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Power Switch - OFF/NORM",
+            "Location": "Special For Joystick; Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Power Switch - RESET",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Power Switch - Up",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - Down",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - NORM",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - ORIDE",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - ORIDE/NORM",
+            "Location": "Special For Joystick; Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - STOP",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - STOP/NORM",
+            "Location": "Special For Joystick; Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "External Wing Tanks Fuel Control Switch - Up",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "F1 Cockpit view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F1 Head shift movement on / off",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F1 HUD only view switch",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F1 Natural head movement view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F10 Jump to theater map view over current point",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F10 Theater map view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F11 Airport free camera",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F11 Camera moving backward",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F11 Camera moving forward",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F11 Jump to free camera",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F12 Civil traffic view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F12 Static object view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F12 Trains/cars toggle",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F2 Aircraft view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F2 Toggle camera position",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F2 Toggle local camera control",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F2 View own aircraft",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F3 Fly-By jump view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F3 Fly-By view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F4 Arcade Chase view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F4 Chase view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F4 Look back view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F5 Ground hostile view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F5 nearest AC view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F6 Released weapon view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F6 Weapon to target view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F7 Ground unit view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F8 Player targets/All targets filter",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F8 Target view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F9 Landing signal officer view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "F9 Ship view",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "FCS BIT Switch",
+            "Location": "Right Wall"
+        },
+        {
+            "Input": "",
+            "Command Name": "FCS RESET Button",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Fire and Bleed Air Test Switch - TEST A",
+            "Location": "Left Console; Fire Test Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Fire and Bleed Air Test Switch - TEST B",
+            "Location": "Left Console; Fire Test Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Fire Extinguisher Pushbutton",
+            "Location": "Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - AUTO",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - AUTO/HALF",
+            "Location": "Special For Joystick; Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - Cycle",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - Down",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - FULL",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - FULL/HALF",
+            "Location": "Special For Joystick; Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - HALF",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLAP Switch - Up",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - Down",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - OFF",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - OFF/STBY",
+            "Location": "Special For Joystick; Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - ON",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - ON/STBY",
+            "Location": "Special For Joystick; Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - STBY",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLIR Switch - Up",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLOOD Light Dimmer Control - CCW/Decrease",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLOOD Light Dimmer Control - CW/Increase",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flashlight",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flashlight BRT Control - Decrease",
+            "Location": "View Cockpit; Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flashlight BRT Control - Increase",
+            "Location": "View Cockpit; Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flashlight Color - Toggle Green/White",
+            "Location": "View Cockpit; Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flight - Attack air defenses",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flight - Attack ground targets",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flight - Complete mission and RTB",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flight - Complete mission and rejoin",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flight - Engage Bandits",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Flight - RTB",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "FORMATION Lights Dimmer Control - CCW/Left",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FORMATION Lights Dimmer Control - CW/Right",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Frame rate counter - Service info",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Fuel Dump Switch - ON/OFF",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch (special) - NORM/ORIDE",
+            "Location": "Special For Joystick; Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch - NORM",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch - NORM/ORIDE",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch - ORIDE",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch Cover (special) - OPEN/CLOSE",
+            "Location": "Special For Joystick; Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch Cover - CLOSE",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch Cover - OPEN",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "GAIN Switch Cover - OPEN/CLOSE",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Gain goggles down",
+            "Location": "Sensors"
+        },
+        {
+            "Input": "",
+            "Command Name": "Gain goggles up",
+            "Location": "Sensors"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch (special) - NORM/RESET",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch - NORM",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch - NORM/RESET",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch - RESET",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch Cover (special) - OPEN/CLOSE",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch Cover - CLOSE",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch Cover - OPEN",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Generator TIE Control Switch Cover - OPEN/CLOSE",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Get new plane - respawn",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance down",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance down-left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance down-right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance up",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance up-left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Glance up-right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 1 - A ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 1 - AUTO",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 1 - B ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 1 - Down",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 1 - Up",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 2 - A ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 2 - AUTO",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 2 - B ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 2 - Down",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 2 - Up",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 3 - A ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 3 - AUTO",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 3 - B ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 3 - Down",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 3 - Up",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 4 - A ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 4 - AUTO",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 4 - B ON",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 4 - Down",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Ground Power Switch 4 - Up",
+            "Location": "Left Console; Ground Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Gun Trigger - SECOND DETENT (Press to shoot)",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Heading Set Switch - Left",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Heading Set Switch - Right",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HMD OFF/BRT Knob - CCW/Decrease",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HMD OFF/BRT Knob - CW/Increase",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HOOK BYPASS Switch - FIELD/CARRIER",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Hornet Ball",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Control Knob - CW/Increase",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Selector Knob (special) - DAY/NIGHT",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Selector Knob - DAY",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Selector Knob - DAY/NIGHT",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Selector Knob - NIGHT",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - Down",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - NORM",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - NORM/REJ 1",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - REJ 1",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - REJ 2",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - REJ 2/REJ 1",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Reject Switch - Up",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - Down",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - OFF",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - OFF/VID",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - Up",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - VID",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - W/B",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Video Control Switch - W/B /VID",
+            "Location": "Special For Joystick; Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Hydraulic Isolate Override Switch (special) - NORM/ORIDE",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Hydraulic Isolate Override Switch - NORM",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Hydraulic Isolate Override Switch - NORM/ORIDE",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Hydraulic Isolate Override Switch - ORIDE",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "ICS Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ICS Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI Brightness Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI Brightness Control Knob - CW/Increase",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI Down Arrow Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI ET Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI Mode Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI QTY Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI Up Arrow Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI ZONE Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - BOTH",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - Down",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - LOWER",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - LOWER/BOTH",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - UPPER",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - UPPER/BOTH",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Antenna Selector Switch - Up",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Master Switch (special) - EMER/NORM",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Master Switch - EMER",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Master Switch - EMER/NORM",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Master Switch - NORM",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - DIS",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - DIS/AUD",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - DIS/AUD /DIS",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - Down",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - OFF",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - OFF/DIS",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFF Mode 4 Switch - Up",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ILS Channel Selector Switch - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ILS Channel Selector Switch - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ILS UFC/MAN Switch (special) - UFC/MAN",
+            "Location": "Special For Joystick; Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ILS UFC/MAN Switch - MAN",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ILS UFC/MAN Switch - UFC",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ILS UFC/MAN Switch - UFC/MAN",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - CCW",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - CV",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - CW",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - GB",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - GND",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - GYRO",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - IFA",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - NAV",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - OFF",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INS Switch - TEST",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INST PNL Dimmer Control - CCW/Decrease",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INST PNL Dimmer Control - CW/Increase",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Info bar coordinate units toggle",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Info bar view toggle",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Internal Wing Tank Fuel Control Switch (special) - INHIBIT/NORM",
+            "Location": "Special For Joystick; Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Internal Wing Tank Fuel Control Switch - INHIBIT",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Internal Wing Tank Fuel Control Switch - INHIBIT/NORM",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Internal Wing Tank Fuel Control Switch - NORM",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - Down",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - NORM",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - OFF/NORM",
+            "Location": "Special For Joystick; Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - ORIDE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - ORIDE/NORM",
+            "Location": "Special For Joystick; Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IR Cooling Switch - Up",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Join Up Formation",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Jump into selected aircraft",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Keep terrain camera altitude",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "Keyboard Rate Fast",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Keyboard Rate Normal",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Keyboard Rate Slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard current position mark point",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard glance view",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 1",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 2",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 3",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 4",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 5",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 6",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 7",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 8",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 9",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Jump To Shortcut 10",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Make Shortcut",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Next Page",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Next Shortcut",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard ON/OFF",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Previous Page",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "Kneeboard Previous Shortcut",
+            "Location": "Kneeboard"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - 1",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - 2",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - 3",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - 4",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - 5",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - 6",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - CCW",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Fill Select Knob - CW",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Mode Select Knob - C",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Mode Select Knob - CCW",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Mode Select Knob - CW",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Mode Select Knob - LD",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Mode Select Knob - P",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Mode Select Knob - RV",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - CCW",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - CW",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - OFF",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - OFF/ON",
+            "Location": "Special For Joystick; Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - ON",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - TD",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Power Select Knob - TD/ON",
+            "Location": "Special For Joystick; Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Volume Control Knob - CCW/Decrease",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Volume Control Knob - CW/Increase",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Landing Gear Control Handle (EMERGENCY DOWN) - EXTEND",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Landing Gear Control Handle (EMERGENCY DOWN) - EXTEND/RETRACT",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Landing Gear Control Handle (EMERGENCY DOWN) - RETRACT",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Landing Gear Control Handle - DOWN",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Landing Gear Control Handle - UP",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Landing Gear Control Handle - UP/DOWN",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Launch Bar Control Switch - EXTEND/RETRACT",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LDG/TAXI LIGHT Switch (special) - ON/OFF",
+            "Location": "Special For Joystick; Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LDG/TAXI LIGHT Switch - OFF",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LDG/TAXI LIGHT Switch - ON",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LDG/TAXI LIGHT Switch - ON/OFF",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Engine/AMAD Fire Warning/Extinguisher Light Cover - CLOSE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Engine/AMAD Fire Warning/Extinguisher Light Cover - OPEN",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Engine/AMAD Fire Warning/Extinguisher Light Cover - OPEN/CLOSE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Engine/AMAD Fire Warning/Extinguisher Light Switch - PRESS",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Engine/AMAD Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Engine/AMAD Fire Warning/Extinguisher Light Switch - RELEASE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Generator Control Switch (special) - NORM/OFF",
+            "Location": "Special For Joystick; Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Generator Control Switch - NORM",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Generator Control Switch - NORM/OFF",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Generator Control Switch - OFF",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Louver - Left",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Louver - Right",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Control Knob - CW/Increase",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - CCW/Left",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - CW/Right",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - DAY",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - DAY/NIGHT",
+            "Location": "Special For Joystick; Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - NIGHT",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - OFF",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Selector Knob - OFF/NIGHT",
+            "Location": "Special For Joystick; Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Contrast Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Contrast Control Knob - CW/Increase",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 1",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 10",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 11",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 12",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 13",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 14",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 15",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 16",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 17",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 18",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 19",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 2",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 20",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 3",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 4",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 5",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 6",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 7",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 8",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI PB 9",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Lights Test Switch - TEST/OFF",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Lock terrain view",
+            "Location": "View Padlock"
+        },
+        {
+            "Input": "",
+            "Command Name": "Lock View (cycle padlock)",
+            "Location": "View Padlock"
+        },
+        {
+            "Input": "",
+            "Command Name": "LST/NFLR Switch (special) - ON/OFF",
+            "Location": "Special For Joystick; Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LST/NFLR Switch - OFF",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LST/NFLR Switch - ON",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LST/NFLR Switch - ON/OFF",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LTD/R Switch - AFT/SAFE",
+            "Location": "Special For Joystick; Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LTD/R Switch - ARM",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LTD/R Switch - Cycle",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "LTD/R Switch - SAFE",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MASTER CAUTION Reset Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Master Arm Switch (special) - ARM/SAFE",
+            "Location": "Special For Joystick; Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Master Arm Switch - ARM",
+            "Location": "Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Master Arm Switch - ARM/SAFE",
+            "Location": "Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Master Arm Switch - SAFE",
+            "Location": "Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Master Mode Button - A/A",
+            "Location": "Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Master Mode Button - A/G",
+            "Location": "Instrument Panel; Master Arm Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MC Switch - 1 OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "MC Switch - 2 OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "MC Switch - Down",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "MC Switch - NORM",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "MC Switch - Up",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "MIDS A Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MIDS A Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MIDS B Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MIDS B Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Missile Labels",
+            "Location": "Labels"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - DAY",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - DAY/NITE",
+            "Location": "Special For Joystick; Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - Down",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - NITE",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - NVG",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - NVG/NITE",
+            "Location": "Special For Joystick; Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MODE Switch - Up",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Mouse Rate Fast",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Mouse Rate Normal",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Mouse Rate Slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "OBOGS Control Switch (special) - ON/OFF",
+            "Location": "Special For Joystick; Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "OBOGS Control Switch - OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "OBOGS Control Switch - ON",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "OBOGS Control Switch - ON/OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Object exclude",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "Objects all excluded - include",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "Objects switching direction forward",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "Objects switching direction reverse",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "OXY Flow Knob - CCW/Decrease/OFF",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "OXY Flow Knob - CW/Increase/ON",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Pause",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Pilot Salute",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Pitot Heater Switch - ON/AUTO",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "POSITION Lights Dimmer Control - CCW/Left",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "POSITION Lights Dimmer Control - CW/Right",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - Down",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - EMERG EXTD",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - EMERG EXTD/RETRACT",
+            "Location": "Special For Joystick; Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - EXTEND",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - EXTEND/RETRACT",
+            "Location": "Special For Joystick; Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - RETRACT",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Probe Control Switch - Up",
+            "Location": "Left Console; Fuel Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Push to Test Switch - CCW/Decrease",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Push to Test Switch - CW/Increase",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Push to Test Switch - Push to activate BIT",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - CCW",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - CW",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - EMERG",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - OFF",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - OPR",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - PULL",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - PULL/STOW",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - STBY",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RADAR Switch - STOW",
+            "Location": "Right Console; Sensor Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RAID/FLIR FOV Select Button",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Radar Elevation Control - Down",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Radar Elevation Control - Up",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "RECCE Event Mark Switch",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Rearming and Refueling Window",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Recorder Off",
+            "Location": "Assist"
+        },
+        {
+            "Input": "",
+            "Command Name": "Recorder On",
+            "Location": "Assist"
+        },
+        {
+            "Input": "",
+            "Command Name": "Request AWACS Bogey Dope",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Request AWACS Home Airbase",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Restart Mission",
+            "Location": "Debug"
+        },
+        {
+            "Input": "",
+            "Command Name": "Return Camera",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Return Camera Base",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Engine/AMAD Fire Warning/Extinguisher Light Cover - CLOSE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Engine/AMAD Fire Warning/Extinguisher Light Cover - OPEN",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Engine/AMAD Fire Warning/Extinguisher Light Cover - OPEN/CLOSE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Engine/AMAD Fire Warning/Extinguisher Light Switch - PRESS",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Engine/AMAD Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Engine/AMAD Fire Warning/Extinguisher Light Switch - RELEASE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Generator Control Switch (special) - NORM/OFF",
+            "Location": "Special For Joystick; Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Generator Control Switch - NORM",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Generator Control Switch - NORM/OFF",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Generator Control Switch - OFF",
+            "Location": "Right Console; Electrical Power Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Louver - Left",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Louver - Right",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Control Knob - CW/Increase",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - CCW/Left",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - CW/Right",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - DAY",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - DAY/NIGHT",
+            "Location": "Special For Joystick; Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - NIGHT",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - OFF",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Selector Knob - OFF/NIGHT",
+            "Location": "Special For Joystick; Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Contrast Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Contrast Control Knob - CW/Increase",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 1",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 10",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 11",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 12",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 13",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 14",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 15",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 16",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 17",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 18",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 19",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 2",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 20",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 3",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 4",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 5",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 6",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 7",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 8",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI PB 9",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "RUD TRIM Control - CCW/Left",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RUD TRIM Control - CW/Right",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Rudder Pedal Adjust Lever",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RWR Intensity Knob - CCW/Decrease",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RWR Intensity Knob - CW/Increase",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RWR Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RWR Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "SAI Cage Knob - CCW",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "SAI Cage Knob - CW",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "SAI Cage Knob - PULL",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "SAI Test Button",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Save Cockpit Angles",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Score window",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Screenshot",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Seat Height Adjustment Switch - DOWN/HOLD",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Seat Height Adjustment Switch - UP/HOLD",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Select AMRAAM",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Select Gun",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Select Sidewinder",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Select Sparrow",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - CCW",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - CW",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - L FUS MSL",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - R FUS MSL",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - RACK/LCHR",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - SAFE",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Knob - STORES",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Selective Jettison Pushbutton",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Sensor Control Switch - Aft",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Sensor Control Switch - Depress",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Sensor Control Switch - Fwd",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Sensor Control Switch - Left",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Sensor Control Switch - Right",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Shoulder Harness Control Handle (special) - LOCK/UNLOCK",
+            "Location": "Special For Joystick; Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Shoulder Harness Control Handle - LOCK",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Shoulder Harness Control Handle - LOCK/UNLOCK",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Shoulder Harness Control Handle - UNLOCK",
+            "Location": "Ejection Seat"
+        },
+        {
+            "Input": "",
+            "Command Name": "Show controls indicator",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Show pilot body",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Smoke Device - ON/OFF",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Sound On/Off",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Speed Brake Switch - EXTEND",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Speed Brake Switch - OFF",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Speed Brake Switch - RETRACT",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Speed Brake Switch - RETRACT/OFF",
+            "Location": "Special For Joystick; Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch (special) - RCVY/NORM",
+            "Location": "Special For Joystick; Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch - NORM",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch - RCVY",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch - RCVY/NORM",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch Cover (special) - OPEN/CLOSE",
+            "Location": "Special For Joystick; Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch Cover - CLOSE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch Cover - OPEN",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Spin Recovery Switch Cover - OPEN/CLOSE",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - BRT",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - BRT/OFF",
+            "Location": "Special For Joystick; Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - DIM",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - DIM/OFF",
+            "Location": "Special For Joystick; Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - Down",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - OFF",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "STROBE Lights Switch - Up",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button CENTER - OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button CENTER - ON",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button CENTER - ON/OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button LEFT IN - OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button LEFT IN - ON",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button LEFT IN - ON/OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button LEFT OUT - OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button LEFT OUT - ON",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button LEFT OUT - ON/OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button RIGHT IN - OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button RIGHT IN - ON",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button RIGHT IN - ON/OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button RIGHT OUT - OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button RIGHT OUT - ON",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Station Jettison Select Button RIGHT OUT - ON/OFF",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Suit Temperature Knob - CCW/Decrease/COLD",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Suit Temperature Knob - CW/Increase/HOT",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Switch dialog",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Switch to main menu",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "T/O TRIM Button",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "TACAN Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "TACAN Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Threat missile padlock",
+            "Location": "View Padlock"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle (Left) - IDLE",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle (Left) - OFF",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle (Left) - OFF/IDLE",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle (Right) - IDLE",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle (Right) - OFF",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle (Right) - OFF/IDLE",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Depress",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Down",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Left",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Right",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Up",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Finger Lift (Both) - UP/DOWN",
+            "Location": "Throttle Quadrant; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Finger Lift (Left) - UP/DOWN",
+            "Location": "Throttle Quadrant; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Finger Lift (Right) - UP/DOWN",
+            "Location": "Throttle Quadrant; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Smoothly (Both) - Decrease",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Smoothly (Both) - Increase",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Smoothly (Left) - Decrease",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Smoothly (Left) - Increase",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Smoothly (Right) - Decrease",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Smoothly (Right) - Increase",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Step (Both) - Decrease",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Step (Both) - Increase",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Step (Left) - Decrease",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Step (Left) - Increase",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Step (Right) - Decrease",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Step (Right) - Increase",
+            "Location": "Throttle Quadrant; Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttles Friction Adjusting Lever - Aft/Decrease",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttles Friction Adjusting Lever - Forward/Increase",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Time accelerate",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Time decelerate",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Time normal",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "Toggle Console",
+            "Location": "Debug"
+        },
+        {
+            "Input": "",
+            "Command Name": "Toggle Formation",
+            "Location": "Communications"
+        },
+        {
+            "Input": "",
+            "Command Name": "Toggle goggles",
+            "Location": "Sensors"
+        },
+        {
+            "Input": "",
+            "Command Name": "Toggle Mirrors",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Toggle tracking launched weapon",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "Trimmer Switch - LEFT WING DOWN",
+            "Location": "Stick; Flight Control; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Trimmer Switch - PULL(CLIMB)",
+            "Location": "Stick; Flight Control; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Trimmer Switch - PUSH(DESCEND)",
+            "Location": "Stick; Flight Control; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Trimmer Switch - RIGHT WING DOWN",
+            "Location": "Stick; Flight Control; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - 1",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - 1/OFF",
+            "Location": "Special For Joystick; Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - 2",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - 2/OFF",
+            "Location": "Special For Joystick; Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - Down",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - OFF",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC ADF Function Select Switch - Up",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Brightness Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Brightness Control Knob - CW/Increase",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 1 Channel Selector Knob - CCW/Decrease",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 1 Channel Selector Knob - CW/Increase",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 1 Channel Selector Knob - PULL",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 1 Volume Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 1 Volume Control Knob - CW/Increase",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 2 Channel Selector Knob - CCW/Decrease",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 2 Channel Selector Knob - CW/Increase",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 2 Channel Selector Knob - PULL",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 2 Volume Control Knob - CCW/Decrease",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 2 Volume Control Knob - CW/Increase",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Emission Control Pushbutton",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - A/P",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - BCN",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - D/L",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - IFF",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - ILS",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - ON/OFF",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Function Selector Pushbutton - TCN",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC I/P Pushbutton",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 0",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 1",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 2",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 3",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 4",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 5",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 6",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 7",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 8",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - 9",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - CLR",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Keyboard Pushbutton - ENT",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Option Select Pushbutton 1",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Option Select Pushbutton 2",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Option Select Pushbutton 3",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Option Select Pushbutton 4",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Option Select Pushbutton 5",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "Undesignate/Nose Wheel Steer Switch",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Unlock view (stop padlock)",
+            "Location": "View Padlock"
+        },
+        {
+            "Input": "",
+            "Command Name": "Vehicle & Ship Labels",
+            "Location": "Labels"
+        },
+        {
+            "Input": "",
+            "Command Name": "View all mode",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "View briefing on/off",
+            "Location": "General"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Center",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Down Left slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Down Right slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Down slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View down",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View down left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View down right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View enemies mode",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "View friends mode",
+            "Location": "View Extended"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Left slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Right slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Up Left slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Up Right slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View Up slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "View up",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View up left",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "View up right",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "VOX Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "VOX Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "WARN/CAUTION Dimmer Control - CCW/Decrease",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "WARN/CAUTION Dimmer Control - CW/Increase",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Warning Tone Silence Button",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Weapon Release Button",
+            "Location": "Stick; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wheel Brake - ON/OFF",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wheel Brake Left - ON/OFF",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wheel Brake Right - ON/OFF",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - ANTI ICE",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - ANTI ICE/OFF",
+            "Location": "Special For Joystick; Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - Down",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - OFF",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - RAIN",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - RAIN/OFF",
+            "Location": "Special For Joystick; Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Windshield Anti-Ice/Rain Switch - Up",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - CCW/Left",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - CW/Right",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - FOLD",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - FOLD/HOLD",
+            "Location": "Special For Joystick; Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - HOLD",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - PULL",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - PULL/STOW",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - SPREAD",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - SPREAD/HOLD",
+            "Location": "Special For Joystick; Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wing Fold Control Handle - STOW",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "WPN Volume Control Knob - CCW/Decrease",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "WPN Volume Control Knob - CW/Increase",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom external in",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom external normal",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom external out",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom in",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom in slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom normal",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom out",
+            "Location": "View Cockpit"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom out slow",
+            "Location": "View"
+        },
+        {
+            "Input": "",
+            "Command Name": "Absolute Camera Horizontal View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Absolute Camera Vertical View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Absolute Horizontal Shift Camera View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Absolute Longitude Shift Camera View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Absolute Roll Shift Camera View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Absolute Vertical Shift Camera View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "ALR-67 DMR Control Knob",
+            "Location": "Instrument Panel; ALR-67"
+        },
+        {
+            "Input": "",
+            "Command Name": "AMPCD Off/Brightness Control Knob",
+            "Location": "Instrument Panel; AMPCD"
+        },
+        {
+            "Input": "",
+            "Command Name": "AOA Indexer Control Knob",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "AUX Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Balance Control Knob",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Black Level Control Knob",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Cabin Temperature Knob",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "\"MOUSE_X\"",
+            "Command Name": "Camera Horizontal View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Camera Roll View",
+            "Location": ""
+        },
+        {
+            "Input": "\"MOUSE_Y\"",
+            "Command Name": "Camera Vertical View",
+            "Location": ""
+        },
+        {
+            "Input": "\"MOUSE_Z\"",
+            "Command Name": "Camera Zoom View",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "CHART Light Dimmer Control",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "CONSOLES Lights Dimmer Control",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Defog Handle",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "FLOOD Light Dimmer Control",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "FORMATION Lights Dimmer Control",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HMD OFF/BRT Knob",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "HUD Symbology Brightness Control Knob",
+            "Location": "Instrument Panel; HUD Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "ICS Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "IFEI Brightness Control Knob",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "INST PNL Dimmer Control",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "KY-58 Volume Control Knob",
+            "Location": "Right Console; KY-58 Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left Louver",
+            "Location": "Left Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Brightness Control Knob",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Left MDI Contrast Control Knob",
+            "Location": "Instrument Panel; Left MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "MIDS A Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "MIDS B Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "OXY Flow Knob",
+            "Location": "Left Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "Pitch",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "POSITION Lights Dimmer Control",
+            "Location": "Left Console; Exterior Lights Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Radar Elevation Control",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right Louver",
+            "Location": "Right Vertical Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Brightness Control Knob",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Right MDI Contrast Control Knob",
+            "Location": "Instrument Panel; Right MDI"
+        },
+        {
+            "Input": "",
+            "Command Name": "Roll",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "RUD TRIM Control",
+            "Location": "Left Console; FCS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Rudder",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "RWR Intensity Knob",
+            "Location": "Instrument Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "RWR Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Suit Temperature Knob",
+            "Location": "Right Console; ECS Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "TACAN Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "TDC Slew Horizontal (mouse)",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "TDC Slew Vertical (mouse)",
+            "Location": ""
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Horizontal Axis",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttle Designator Controller - Vertical Axis",
+            "Location": "Throttle Grip; HOTAS"
+        },
+        {
+            "Input": "",
+            "Command Name": "Throttles Friction Adjusting Lever",
+            "Location": "Throttle Quadrant"
+        },
+        {
+            "Input": "",
+            "Command Name": "Thrust",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Thrust Left",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "Thrust Right",
+            "Location": "Flight Control"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC Brightness Control Knob",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 1 Volume Control Knob",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "UFC COMM 2 Volume Control Knob",
+            "Location": "Instrument Panel; UFC"
+        },
+        {
+            "Input": "",
+            "Command Name": "Utility Light BRT Control",
+            "Location": "Right Console"
+        },
+        {
+            "Input": "",
+            "Command Name": "VOX Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "WARN/CAUTION Dimmer Control",
+            "Location": "Right Console; INTR LT Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wheel Brake",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wheel Brake Left",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "Wheel Brake Right",
+            "Location": "Systems"
+        },
+        {
+            "Input": "",
+            "Command Name": "WPN Volume Control Knob",
+            "Location": "Left Console; Communication Control Panel"
+        },
+        {
+            "Input": "",
+            "Command Name": "Zoom View",
+            "Location": ""
+        }
+    ]
+}
