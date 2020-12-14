@@ -1,29 +1,35 @@
 import React from "react"
-import {BrowserRouter as Router, Link, Switch} from "react-router-dom"
-import Routes from "../utils/routes/routes"
+import {Link, BrowserRouter} from "react-router-dom"
 import {MuiThemeProvider} from "@material-ui/core"
 import CavemanTheme from "../utils/style/theme"
+import Routes from "../utils/routes/routes"
 
 const App: React.FC = () => {
     return (
-        <MuiThemeProvider theme={CavemanTheme}>
-            <Router>
+        <BrowserRouter>
+            <MuiThemeProvider theme={CavemanTheme}>
                 <div>Hello World</div>
                 <div>
-                    <nav>
-                        <ul>
-                            <li>
-                                <Link to="/">Home</Link>
-                            </li>
-                            <li>
-                                <Link to="/dumb-component">Dumb Component</Link>
-                            </li>
-                        </ul>
-                    </nav>
+                    <div>
+                        {/*<BrowserRouter>*/}
+                        <nav>
+                            <ul>
+                                <li>
+                                    <Link to="/">Home</Link>
+                                </li>
+                                <li>
+                                    <Link to="/dumb">Dumb Component</Link>
+                                </li>
+                            </ul>
+                        </nav>
+                        {/*<BrowserRouter>*/}
+                    </div>
+                    <div>
+                        <Routes />
+                    </div>
                 </div>
-                <Routes />
-            </Router>
-        </MuiThemeProvider>
+            </MuiThemeProvider>
+        </BrowserRouter>
     )
 }
 
