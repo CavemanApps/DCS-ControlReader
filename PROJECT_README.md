@@ -4,6 +4,8 @@
 ## Packages past base setup:
 - `yarn add @material-ui/core`
     - `yarn add @types/material-ui`
+- `yarn add material-table`
+
 
 
 ## Convert HTML to JSON for now:

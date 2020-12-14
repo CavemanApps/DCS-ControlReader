@@ -3,7 +3,7 @@ import webpack, {Configuration} from "webpack"
 import HtmlWebpackPlugin from "html-webpack-plugin"
 import ForkTsCheckerWebpackPlugin from "fork-ts-checker-webpack-plugin"
 import {TsconfigPathsPlugin} from "tsconfig-paths-webpack-plugin"
-import { JsonPrettyPrint } from "./src/util/PrettyPrintJson";
+import { JsonPrettyPrint } from "./src/utils/prettyPrint/PrettyPrintJson";
 
 const webpackConfig = (env: any): Configuration => {
 
