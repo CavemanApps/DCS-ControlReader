@@ -1,21 +1,13 @@
 import React from "react"
-import {Route, Switch} from "react-router-dom"
+import {BrowserRouter, Route, Switch} from "react-router-dom"
 import HelloWorld from "../../components/HelloWorld/HelloWorld"
 import DumbComponent from "../../components/DumbComponent/DumbComponent"
 
-const Routes: React.FC = () => {
+export const Routes = (): unknown => {
     return (
         <Switch>
-            <Route path="/">
-                {/*<HelloWorld />*/}
-                <DumbComponent />
-            </Route>
-            <Route path="/dumb">
-                {/*<DumbComponent />*/}
-                <HelloWorld />
-            </Route>
+            <Route path="/" component={DumbComponent} />
+            <Route path="/dumb" component={HelloWorld} />
         </Switch>
     )
 }
-
-export default Routes

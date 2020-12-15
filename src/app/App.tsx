@@ -2,8 +2,7 @@ import React from "react"
 import {Link, BrowserRouter} from "react-router-dom"
 import {MuiThemeProvider} from "@material-ui/core"
 import CavemanTheme from "../utils/style/theme"
-import Routes from "../utils/routes/routes"
-
+import {Routes} from "../utils/routes/routes"
 const App: React.FC = () => {
     return (
         <BrowserRouter>
@@ -24,9 +23,7 @@ const App: React.FC = () => {
                         </nav>
                         {/*<BrowserRouter>*/}
                     </div>
-                    <div>
-                        <Routes />
-                    </div>
+                    <div>{Routes()}</div>
                 </div>
             </MuiThemeProvider>
         </BrowserRouter>
