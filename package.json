@@ -58,10 +58,11 @@
     "react-router-dom": "^5.2.0"
   },
   "scripts": {
-    "start": "webpack serve --mode development --env development",
+    "start": "webpack serve --mode development --env development --open chrome",
     "build": "webpack --mode production --env production",
     "lint": "eslint --fix src/**/*.ts{,x}",
     "lint:fix": "eslint --fix src/**/*.ts{,x}",
-    "test": "jest"
+    "test": "jest",
+    "debug": "node --inspect node_modules/micro-dev/bin/micro-dev.js"
   }
 }

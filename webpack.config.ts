@@ -21,7 +21,9 @@ const webpackConfig = (env: any): Configuration => {
             filename: "build.js"
         },
         devServer: {
-            port: 3000
+            port: 3000,
+            contentBase: path.join(__dirname, '/dist'),
+            publicPath: path.join(__dirname, '/public')
         },
         module: {
             rules: [
